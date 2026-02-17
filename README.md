@@ -164,10 +164,6 @@ Installer files are generated locally and are not committed to the repository.
 - Export/Import bookmarks
 - macOS build support
 
-## 🏠 Home Screen
+## Screenshots
+- All app screenshots are located in src/assets/ images folder  
 
-<p align="center">
-  <img src="assets/images/Home.png" width="700">
-</p>
-
-*Main dashboard displaying bookmark sections and grid layout.*
