@@ -163,3 +163,11 @@ Installer files are generated locally and are not committed to the repository.
 - Tag-based filtering
 - Export/Import bookmarks
 - macOS build support
+
+## 🏠 Home Screen
+
+<p align="center">
+  <img src="assets/images/home.png" width="700">
+</p>
+
+*Main dashboard displaying bookmark sections and grid layout.*
